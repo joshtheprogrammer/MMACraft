@@ -1,0 +1,6 @@
+name: MMACraft
+version: 1.0
+description: MMA in Minecraft!
+author: uziza
+
+main: user.uziza.MMACraft.MMACraft
